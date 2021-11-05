@@ -1,0 +1,20 @@
+h1{
+    color: goldenrod;
+    
+}
+p{
+    color: wheat;
+}
+.countainer{
+    background-color: darkgreen;
+    font-family: Georgia;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+button{
+    height: 50px;
+    background-color: goldenrod;
+    color: darkgreen;
+    margin-bottom: 4px;
+}
